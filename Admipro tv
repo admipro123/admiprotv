@@ -1,0 +1,27 @@
+#EXTINF:-1,Pre-primaria
+http://51.81.106.147:8084/hls/miner01.m3u8
+#EXTINF:-1,primero de primaria
+http://51.81.106.147:8084/hls/miner02.m3u8
+#EXTINF:-1,segundo de primaria
+http://51.81.106.147:8084/hls/miner03.m3u8
+#EXTINF:-1, tercero de primaria
+http://51.81.106.147:8084/hls/miner04.m3u8
+#EXTINF:-1,cuarto de primaria
+http://51.81.106.147:8084/hls/miner05.m3u8
+#EXTINF:-1,quinto de primaria
+http://51.81.106.147:8084/hls/miner06.m3u8
+#EXTINF:-1,sexto de primaria
+http://51.81.106.147:8084/hls/miner07.m3u8
+#EXTINF:-1,primero de secundaria
+http://51.81.106.147:8084/hls/miner08.m3u8
+#EXTINF:-1,segundo de secundaria
+http://51.81.106.147:8084/hls/miner09.m3u8
+#EXTINF:-1,tercero de secundaria
+http://51.81.106.147:8084/hls/miner10.m3u8
+#EXTINF:-1,cuarto de secundaria
+http://51.81.106.147:8084/hls/miner11.m3u8
+#EXTINF:-1,quinto de secundaria
+http://51.81.106.147:8084/hls/miner12.m3u8
+#EXTINF:-1, sexto de secundaria
+http://51.81.106.147:8084/hls/miner13.m3u8
+
