@@ -1,0 +1,169 @@
+#EXTINF:-1,tele Medellín
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1,Red más tv 
+https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+#EXTINF:-1, tele aguadas
+https://servers.amelbasoluciones.co:19360/teleaguadas/teleaguadas.m3u8
+#EXTINF:-1,zoom tv
+https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,canal tro
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b900000.m3u8
+#EXTINF:-1,tdi
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1,mi llano tv
+https://play.amelbasoluciones.co:3856/stream/play.m3u8
+#EXTINF:-1,enlace tv
+https://1-218-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
+#EXTINF:-1,tele petróleo
+https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIXOgAZJgAAAAAAmCYY7G1ga9iAAAA/playlist.m3u8
+#EXTINF:-1,la kalle
+http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/155739
+#EXTINF:-1,win SPORT normal
+http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/176585
+#EXTINF:-1,win betplay 2
+http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/155693
+#EXTM3U
+#EXTINF:-1, LATAM tv
+https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8
+#EXTINF:-1,ucl tv
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1,cali tv
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,zaping tv
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1,canal capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1,CNC medellin
+https://stmv1.zcastbr.com/jactv/jactv/playlist.m3u8
+#EXTINF:-1,CNC pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1,CNC Quibdó
+http://66.240.236.25:1936/corescomunicaciones/corescomunicaciones_240p/chunklist_w423880779.m3u8
+#EXTINF:-1,CNC Valledupar
+http://71.6.132.178:1935/ch010/cncvalledupar/playlist.m3u8
+#EXTINF:-1,CNC Palmira
+http://71.6.132.178:1935/ch002/cncpalmira/playlist.m3u8
+#EXTINF:-1,CNC Santander qulichao
+http://71.6.132.178:1935/ch015/cncsantander/playlist.m3u8
+#EXTINF:-1,mundo vision
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1,alpavision
+https://cloud2.streaminglivehd.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1,visión dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1,pyc
+https://byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8
+#EXTINF:-1,psc tv
+https://srv1.zcast.com.br/psctv2/psctv2/playlist.m3u8
+#EXTINF:-1,tv peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1,telepasto
+http://66.240.236.25:1936/telepasto/telepasto/playlist.m3u8
+#EXTINF:-1,CNC online
+http://66.240.236.25:1936/popular/popular/playlist.m3u8
+#EXTINF:-1, ranchenato tv
+http://66.240.236.25:1936/ranchenato/ranchenato_240p/playlist.m3u8
+#EXTINF:-1, sentimiento vallenato
+http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1, CNC plus
+http://71.6.132.178:1935/ch001/Channel/playlist.m3u8
+#EXTINF:-1, galeras tv
+http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1, hits channell
+http://pastocnc1.ddns.net:1935/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1, son corazón
+http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1, son latino
+http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1, son popular
+http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1, tv familia
+https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
+#EXTINF:-1, mi canal 2
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+#EXTINF:-1,ctv 
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1, eduvision
+http://66.240.236.25:1936/eduvision/eduvision/chunklist_w1489271357.m3u8
+#EXTINF:-1, alfa tv
+http://71.6.132.178:1935/ch005/alfatv/playlist.m3u8
+#EXTINF:-,1tv agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_160p/chunklist_w751462858.m3u8
+#EXTINF:-1,tele Santiago
+https://play.cdn.enetres.net/B96BDF4F49964F4C9B725BE0528BA89D023/0217/playlist.m3u8
+#EXTINF:-1,telemedellin
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1, telepácifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,tele islas
+http://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1,canal tro
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,melody chanelll
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1,tele Antioquia
+https://hdvideo2.cdn.net.co/live01/ta_360p.m3u8
+#EXTINF:-1, amordiscos tv
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+#EXTINF:-1, cosmovisión 
+https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
+#EXTINF:-1, tele musica
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1,mundo mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1,canal c 
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+#EXTINF:-1, Huila tv 
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1,stv nariño
+https://cloud2.streaminglivehd.com:1936/narino/ngrp:narino_all/playlist.m3u8
+#EXTINF:-1,señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,tvnglobal
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
+#EXTINF:-1,tele boyaca
+https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8
+#EXTINF:-1,trece
+https://vodcdn.logicideas.media/canaltrece-vod/smil:62d1-afc8-859d-2f73-9578-3800-1c83-LI649b.smil/playlist.m3u8
+#EXTINF:-1,canal institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,oasis tv
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1,noetevision cartago
+https://eu1.servers10.com:8081/8092/index.m3u8
+#EXTINF:-1,iu tv
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+#EXTINF:-1,más tv
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1,canal 2 cali
+https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
+#EXTINF:-1,multicanal 
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1,uao play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8?_=1
+#EXTINF:-1, caracol hd
+http://011011011.com:8080/live/cuent930/4dM5WDNUUt/47837.ts
+#EXTINF:-1,betplay
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132855
+#EXTINF:-1, Caracol internacional
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1, rcn
+http://011011011.com:8080/cuent930/4dM5WDNUUt/142472
+#EXTINF:-1, tele café
+http://011011011.com:8080/cuent930/4dM5WDNUUt/140875
+#EXTINF:-1, canal uno
+http://latinoamericatv.vip:8080/9/9/178
+#EXTINF:-1,cable noticias
+http://latinoamericatv.vip:8080/9/9/177
+#EXTINF:-1,city tv
+http://latinoamericatv.vip:8080/9/9/181
+#EXTINF:-1,ntn24
+http://latinoamericatv.vip:8080/9/9/176
+#EXTINF:-1,caracol hd
+http://latinoamericatv.vip:8080/9/9/179
+#EXTINF:-1,rcn
+http://latinoamericatv.vip:8080/9/9/183
+#EXTINF:-1,l kalle
+http://latinoamericatv.vip:8080/9/9/193
+#EXTINF:-1,win más 1
+http://latinoamericatv.vip:8080/9/9/196
