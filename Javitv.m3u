@@ -1,8 +1,12 @@
-#EXTINF:-1,tele Medellín
-https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
-#EXTINF:-1,Red más tv 
-https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-#EXTINF:-1, tele aguadas
+
+
+
+#EXTINF:-1,Red mas
+https://infored.lcdn.claro.net.co:443/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
+#EXTINF: -1, tele Medellín
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/chunklist_b900000_DVR.m3u8
+
+#EXTINF: -1, tele aguadas
 https://servers.amelbasoluciones.co:19360/teleaguadas/teleaguadas.m3u8
 #EXTINF:-1,zoom tv
 https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/chunklist_b1500000.m3u8
