@@ -16,11 +16,12 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b90000
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1,mi llano tv
 https://play.amelbasoluciones.co:3856/stream/play.m3u8
-#EXTINF:-1,enlace tv
+#EXTINF:enlace tv
 https://1-218-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
-#EXTINF:-1,tele petróleo
-https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIXOgAZJgAAAAAAmCYY7G1ga9iAAAA/playlist.m3u8
-#EXTINF:-1,la kalle
+#EXTINF:-1,mi tv clasica
+https://mitv.getstreamhosting.com:30443/abr/stream/playlist.m3u8
+
+#EXTINF:-1,a kalle
 http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/155739
 #EXTINF:-1,win SPORT normal
 http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/176585
