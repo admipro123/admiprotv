@@ -21,11 +21,11 @@ https://1-218-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1,mi tv clasica
 https://mitv.getstreamhosting.com:30443/abr/stream/playlist.m3u8
 
-#EXTINF: -1, a kall
-http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/155739
-#EXTINF:-1,win SPORT normal
-http://l3dtv.ga:8080/CntChupapija/bGWkWP4X3z/176585
-#EXTINF:-1,win betplay 2
+# 1, un kall
+
+#EXTINF: -1, gana normal
+
+
 
 #EXTINF: -1, TV LATAM
 https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8
