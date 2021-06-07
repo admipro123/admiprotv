@@ -20,6 +20,10 @@ https://play.amelbasoluciones.co:3856/stream/play.m3u8
 https://1-218-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1,mi tv clasica
 https://mitv.getstreamhosting.com:30443/abr/stream/playlist.m3u8
+#EXTINF:-1,win más iptv latino
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/63064
+
+
 
 
 
