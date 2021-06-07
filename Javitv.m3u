@@ -22,7 +22,44 @@ https://1-218-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
 https://mitv.getstreamhosting.com:30443/abr/stream/playlist.m3u8
 #EXTINF:-1,win más iptv latino
 http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/63064
-
+#EXTINF:-1,cable noticias
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/4003
+#EXTINF:-1,canal uno
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17780
+#EXTINF:-1,caracol sd
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/61828
+#EXTINF:-1, caracol internacional
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/3995
+#EXTINF:-1, City tv
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/3994
+#EXTINF:-1, ntn24
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17789
+#EXTINF:-1,pasiones
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17786
+#EXTINF:-1,rcn
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/3986
+#EXTINF:-1,rcn novelas
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/3982
+#EXTINF:-1, señal colombia
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17781
+#EXTINF:-1,telecafe
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17779
+#EXTINF:-1,telecaribe
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17777
+#EXTINF:-1,win normal
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/17769
+#EXTINF:-1,mix 24-7 retro
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/58121
+#EXTINF:-1,mix 24-7
+http://tv.iptv5latino.cl:8080/1160/PiVl32LcFV/58119
+#EXTINF:-1,me gustas
+http://redcoliptv.com:8090/Abris05/yErjdY4p8h/22606
+#EXTINF:-1,mi gente tv
+http://redcoliptv.com:8090/Abris05/yErjdY4p8h/22604
+#EXTINF:-1, claró música
+http://redcoliptv.com:8090/Abris05/yErjdY4p8h/22605
+#EXTINF:-1,Fox sport colombia
+http://redcoliptv.com:8090/Abris05/yErjdY4p8h/2268
 
 
 
