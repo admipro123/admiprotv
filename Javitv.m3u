@@ -51,7 +51,7 @@ http://71.6.132.178:1935/ch015/cncsantander/playlist.m3u8
 #EXTINF:-1,mundo vision
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1,alpavision
-https://cloud2.streaminglivehd.com:1936/8102/8102/playlist.m3u8
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1,visión dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1,pyc
