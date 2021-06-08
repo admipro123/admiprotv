@@ -5,7 +5,8 @@
 https://infored.lcdn.claro.net.co:443/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
 #EXTINF: -1, tele Medellín
 https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/chunklist_b900000_DVR.m3u8
-
+#EXTINF:-1,tele mas
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?_=1
 #EXTINF: -1, tele aguadas
 https://servers.amelbasoluciones.co:19360/teleaguadas/teleaguadas.m3u8
 #EXTINF:-1,zoom tv
@@ -60,13 +61,19 @@ http://redcoliptv.com:8090/Abris05/yErjdY4p8h/22604
 http://redcoliptv.com:8090/Abris05/yErjdY4p8h/22605
 #EXTINF:-1,Fox sport colombia
 http://redcoliptv.com:8090/Abris05/yErjdY4p8h/2268
+#EXTINF:-1,mi tv retro
+https://mitv.getstreamhosting.com:30443/abr/stream/playlist.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1, dw noticias
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,RT noticias
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8?_=1
+#EXTINF:-1,tu musica
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8?_=1
+#EXTINF:-1,positiva tv
+https://srv5.zcast.com.br/nellalexander5463/nellalexander5463/chunklist_w978172456.m3u8?_=1
+#EXTINF:-1, súper clásicos
+https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/playlist.m3u8?_=1
 #EXTINF: -1, TV LATAM
 https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8
 #EXTINF:-1,ucl tv
