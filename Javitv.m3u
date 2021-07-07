@@ -1,8 +1,7 @@
 
 
 
-#EXTINF:-1,Red mas
-https://infored.lcdn.claro.net.co:443/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
+
 #EXTINF: -1, tele Medellín
 https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/chunklist_b900000_DVR.m3u8
 #EXTINF:-1,tele mas
